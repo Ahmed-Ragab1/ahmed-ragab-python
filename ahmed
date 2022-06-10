@@ -5,6 +5,7 @@ git remote -v
 git add .
 git commit -m "this file i will write commnds in it"
  git push origin master
- test command to make conflict
+ git push origin master  //error
+ git pull origin master
  
 
